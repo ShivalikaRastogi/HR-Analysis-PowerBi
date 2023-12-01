@@ -12,7 +12,6 @@ Link to the dashboard → [PowerBi Dashboard](https://www.novypro.com/project/hr
 • Advance Excel 👨‍💻 
 
 • Power BI 📊
-
 ```
 # Dashboard Content :-
 
