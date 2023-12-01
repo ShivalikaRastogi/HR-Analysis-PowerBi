@@ -1,7 +1,6 @@
-# HR-Analysis-PowerBi
 # 📊 HR Analytics Dashboard
-# Project Name :-
-HR  Analytics Dashboard Using Power BI 
+# Project Link :-
+Link to the dashboard → [PowerBi Dashboard](https://www.novypro.com/project/hr-analytics-dashboard-185)
 # Description :-
 - 💼 The HR Data Analysis Dashboard using Power BI project is tailored for HR managers and business leaders to comprehensively analyze and oversee employee data. Its aim is to empower HR professionals to make informed decisions regarding employee retention, development, and recruitment strategies.
 
