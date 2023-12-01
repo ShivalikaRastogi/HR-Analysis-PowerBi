@@ -13,7 +13,6 @@ Link to the dashboard → [PowerBi Dashboard](https://www.novypro.com/project/hr
 
 • Power BI 📊
 
-• Statistics 📜
 ```
 # Dashboard Content :-
 
